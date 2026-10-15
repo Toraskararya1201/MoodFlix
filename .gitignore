@@ -1,0 +1,5 @@
+.streamlit/secrets.toml
+__pycache__/
+data/poster_cache.json
+.venv/
+.env
